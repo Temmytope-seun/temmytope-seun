@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/aristotle_seun" target="blank"><img src="https://img.shields.io/twitter/follow/aristotle_seun?logo=twitter&style=for-the-badge" alt="aristotle_seun" /></a> </p>
 
-- 🔭 I’m currently working on [a medical app](https://github.com/zuri-training/E-Care-Mobile-pjt-24.git)
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m a freelancer and I've worked on many frotend projects
 
 - 👯 I’m looking to collaborate on **flutter projects**
 
