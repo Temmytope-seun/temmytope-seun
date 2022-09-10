@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adegbeyeni Temitope</h1>
-<h3 align="center">A passionate Frontend developer </h3>
+<h3 align="center">A Software developer </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=temmytope-seun" alt="temmytope-seun" /></a> </p>
 
