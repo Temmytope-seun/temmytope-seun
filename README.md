@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/aristotle_seun" target="blank"><img src="https://img.shields.io/twitter/follow/aristotle_seun?logo=twitter&style=for-the-badge" alt="aristotle_seun" /></a> </p>
 
 
-- 🌱 I’m a freelancer and I've worked on many frotend projects
+- 🌱 I’m a software developer and I've worked on many interesting projects
 
 - 👯 I’m looking to collaborate on **flutter projects**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **temmytope60@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/seun-adegbeyeni-257181128/](https://www.linkedin.com/in/seun-adegbeyeni-257181128/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/temitope-o-adegbeyeni-257181128/](https://www.linkedin.com/in/temitope-o-adegbeyeni-257181128/)
 
 
 <h3 align="left">Connect with me:</h3>
