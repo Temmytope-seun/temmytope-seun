@@ -8,9 +8,9 @@
 
 - 📌 Tech Stack:
 
--  Frontend: ReactJS, Next.js, TypeScript, Redux, Bootstrap, Material UI
--  Backend & AI: Python, OpenCV, Machine Learning, SQL, C# (.NET Core)
--  Tools & Methodologies: Git, Jira, Scrum, Agile Development
+        -  Frontend: ReactJS, Next.js, TypeScript, Redux, Bootstrap, Material UI
+        -  Backend & AI: Python, OpenCV, Machine Learning, SQL, C# (.NET Core)
+        -  Tools & Methodologies: Git, Jira, Scrum, Agile Development
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/temmytope-seun?tab=repositories](https://github.com/temmytope-seun?tab=repositories)
@@ -31,8 +31,4 @@
  
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=temmytope-seun&show_icons=true&locale=en&layout=compact" alt="temmytope-seun" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=temmytope-seun&show_icons=true&locale=en" alt="temmytope-seun" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=temmytope-seun&" alt="temmytope-seun" /></p>
+ 
